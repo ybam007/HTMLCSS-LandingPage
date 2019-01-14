@@ -40,12 +40,12 @@ section{
     line-height: 1.4;
 }
 .btn-default{
-    text-decoration-color: white;
+    color: white;
     background-color: #faa541;
     color: #ffffff;
 }
 .btn-primary{
-    text-decoration-color: white;
+    color: white;
     background-color: #364247;
 }
 .form-control{
