@@ -46,14 +46,13 @@ section{
 }
 .btn-primary{
     color: white;
-    background-color: #364247;
+    background-color: #364147;
 }
 .form-control{
     display: block;
     padding: 6px 12px;
-    border: 1px;
-    border-color: #a0a0a0;
-    text-decoration-color: #8598a2;
+    border: 1px solid #a0a0a0 ;
+    color: #8598a2;
     line-height: 1.4;
 }
 .text-light{
